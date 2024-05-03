@@ -29,14 +29,6 @@ const Footer = () => {
           {new Date().getFullYear()}
         </h5>
       </div>
-      <div className="footer-col-3">
-        <strong>
-          <span>
-            Fork this project &nbsp;
-            <a href="https://github.com/thisisazeez/ecommerce-react">HERE</a>
-          </span>
-        </strong>
-      </div>
     </footer>
   );
 };
